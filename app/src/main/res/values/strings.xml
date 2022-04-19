@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">AppTrabalhoN2</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string-array name="arrayTempo">
+        <item>Selecione...</item>
+        <item>15 min</item>>
+        <item>20 min </item>>
+        <item>25 min</item>>
+        <item>30 min</item>>
+        <item>35 min</item>>
+        <item>40 min</item>>
+        <item>45 min</item>>
+        <item>50 min</item>>
+        <item>55 min</item>>
+        <item>60 min</item>>
+        <item>+1 hora</item>>
+
+    </string-array>
+
+    <string-array name="arrayDificuldade">
+        <item>Selecione...</item>
+        <item>Fácil</item>>
+        <item>Médio</item>>
+        <item>Difícil</item>>
+
+    </string-array>
+
+    <string name="txtAtencao">Atenção</string>
+
+</resources>
